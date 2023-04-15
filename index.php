@@ -128,7 +128,7 @@
                     <a class="copyrightText" href="https://github.com/enzotng/POO-Academy" target="_blank"
                         rel="noopener noreferrer">Télécharger le
                         projet <i class="bi bi-github"></i></a>
-                    <a class="copyrightText" href="public/" download>Télécharger le rapport <i
+                    <a class="copyrightText" href="public/rapport.pdf" download>Télécharger le rapport <i
                             class="bi bi-download"></i></a>
                 </div>
             </div>
